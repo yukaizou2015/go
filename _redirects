@@ -1,5 +1,6 @@
 # Redirects from what the browser requests to what we serve
 
+/aws-research-seminars https://aws.amazon.com/government-education/research-and-technical-computing/research-seminar-series
 /miccai-2019 https://github.com/yukaizou2015/miccai_abcd_np_purdue150
 /bcw-2021 https://www.youtube.com/channel/UC5hGaBQ94j0HIWv4okJ7A4g
 /neurohack-2021 https://github.com/yukaizou2015/connectivityml
